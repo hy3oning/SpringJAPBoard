@@ -14,9 +14,9 @@ JPA 방식으로 CURD 테스팅<br>
 
 ### ⚙️ 개발 환경
 - 운영체제: Windows 11 home
-- 개발 도구: SpringBoot 4.1.9
+- 개발 도구: SpringBoot 5.0.1
 - JDK 버전: OpenJDK 21.0.6
-- 프로그래밍 언어: Java 21
+- 프로그래밍 언어: Java 17
 - 형상관리 도구: Git, GitHub
 
 ## 📌 주요 기능
